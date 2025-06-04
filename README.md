@@ -111,6 +111,19 @@ Learn Python by practicing on [CodeChef](https://www.codechef.com/users/tower_bo
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python"></a>
 </td>
 <td>
+<a href="/output-print-python/multiple-outputs.py">
+<img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=flat&logo=PythonAnywhere&logoColor=white" alt="PythonAnywhere"></a>
+</td>
+</tr>
+<!-- Fim da Linha -->
+<!-- Início da Linha -->
+<tr>
+<td>  </td>
+<td>
+<a href="">
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python"></a>
+</td>
+<td>
 <a href="">
 <img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=flat&logo=PythonAnywhere&logoColor=white" alt="PythonAnywhere"></a>
 </td>
@@ -118,7 +131,20 @@ Learn Python by practicing on [CodeChef](https://www.codechef.com/users/tower_bo
 <!-- Fim da Linha -->
 <!-- Início da Linha -->
 <tr>
-<td>TESTE</td>
+<td>  </td>
+<td>
+<a href="">
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python"></a>
+</td>
+<td>
+<a href="">
+<img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=flat&logo=PythonAnywhere&logoColor=white" alt="PythonAnywhere"></a>
+</td>
+</tr>
+<!-- Fim da Linha -->
+<!-- Início da Linha -->
+<tr>
+<td>  </td>
 <td>
 <a href="">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python"></a>
