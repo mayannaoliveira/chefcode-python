@@ -156,8 +156,19 @@ Learn Python by practicing on [CodeChef](https://www.codechef.com/users/tower_bo
 </tr>
 <!-- Fim da Linha -->
 </table>
+</br>
 
+> [!IMPORTANT]
+> Please check the Python Documentation before run this repository, I sure recommended the version 3;
 
+To run .py files in your machine just follow the streps:
+1. Clone this project.
+2. Open the terminal
+3. Check Python version `python --version`.
+4. Inserir in terminal `python .\hello.py`, `py .\hello.py` ou `python3 .\hello.py`.
+5. Check the terminal response: 
+`Hello, World! Just testing the Python running.`
+</br>
 
 <!-- NEW-TABLE -->
 <!-- </br>
