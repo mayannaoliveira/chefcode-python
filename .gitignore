@@ -47,4 +47,7 @@ yarn-error.log*
 
 # Ignora arquivos de usuário específicos (opcional)
 *.userprefs
- 
+
+# Templates
+/template
+/template/*

@@ -4,9 +4,8 @@ Which line of code will output the text Hi?
 Solve
 `print("Hi")`
 
-Follow me in [CodeChef](https://www.codechef.com/users/tower_boat_88). :cook:
+:snake: Please check the code in [PythonAnywhere](https://www.pythonanywhere.com/user/mayannaoliveira/shares/6fcd2d10d5994b478df3fbc762dbce23/).
 
-Follow me in [CodeChef](https://www.codechef.com/users/tower_boat_88). :cook:
+:cook: Follow me in [CodeChef](https://www.codechef.com/users/tower_boat_88). 
 
-_Click here to back to [README](/README.md)_
-
+:computer: _Click here to back to [README](/README.md)._
