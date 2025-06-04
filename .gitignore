@@ -1,0 +1,50 @@
+# Ignora arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignora arquivos de ambiente (variáveis sensíveis)
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Ignora diretórios de dependências e builds
+/node_modules
+/dist
+/build
+/out
+/.next
+
+# Ignora arquivos de cache e logs
+*.log
+*.tmp
+*.temp
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignora arquivos de IDE/Editor
+.idea
+.qodo/
+.vscode/
+.obsidian/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Ignorar arquivos dentro dessas pastas (opcional, mas redundante)
+.qodo/*
+.vscode/*
+.obsidian/*
+
+# Ignora arquivos de sistema
+*.bak
+*.swp
+*.swo
+
+# Ignora arquivos de usuário específicos (opcional)
+*.userprefs
+ 
