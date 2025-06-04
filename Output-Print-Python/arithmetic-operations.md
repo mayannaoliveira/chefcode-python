@@ -18,12 +18,12 @@ In this case, the output will be the string **"2 + 4"** instead of the result 
 - With quotes: The expression is treated as a string and printed as it is.
 Understanding this distinction is important for correctly displaying the results of calculations versus showing text.
 
-**Task**
+#### Task
 
 In the editor we have written half code for you. Some portion of the code contains __ (underscores). Remove those underscores and write 21 in place of first underscore and 40 in place of the next underscore.
 To pass this exercise, your code has to print the sum of 21 and 40.
 
-**Solve**
+#### Solving
 
 ```python
 # Replace the code print(__ + __) with print(21 + 40)
@@ -31,11 +31,12 @@ To pass this exercise, your code has to print the sum of 21 and 40.
 print(21+40)
 ```
 
-**Output**
+#### Output
 
 `61`
 
-:snake: Please check the code in [PythonAnywhere](https://www.pythonanywhere.com/user/mayannaoliveira/shares/6fcd2d10d5994b478df3fbc762dbce23/).
+
+:snake: Please check the code in [PythonAnywhere](https://www.pythonanywhere.com/user/mayannaoliveira/shares/13292a0452b34786883eefbd182d6865/).
 
 :cook: Follow me in [CodeChef](https://www.codechef.com/users/tower_boat_88). 
 

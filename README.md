@@ -19,17 +19,20 @@ Learn Python by practicing on [CodeChef](https://www.codechef.com/users/tower_bo
 
 <!-- CODECHEF -->
 - Output/Print in Python
+  - Introducing output / printing
     - Printing text
     - Printing number
     - Arithmetic Operations
     - MCQ on printing text
     - MCQ on printing sum
-
-- Review and Reflect - Lesson 1
+  - Printing on multiple lines
     - Multiple Outputs
 
+<!-- Output/Print in Python -->
+</br>
 <table>
 <tr>
+<p align="left"><b>Output/Print in Python:</b></p>
 <th>Challenge</th>
 <th>Solving</th>
 <th>Code</th>
@@ -39,11 +42,11 @@ Learn Python by practicing on [CodeChef](https://www.codechef.com/users/tower_bo
 <!-- Início da Linha -->
 <td>Printing text</td>
 <td>
-<a href="/introduction/printing-text.md">
+<a href="/output-print-python/printing-text.md">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python"></a>
 </td>
 <td>
-<a href="https://www.pythonanywhere.com/user/mayannaoliveira/shares/2cd36b2f71124c0c85472b136633eb0d/">
+<a href="/output-print-python/output-print-python.py">
 <img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=flat&logo=PythonAnywhere&logoColor=white" alt="PythonAnywhere"></a>
 </td>
 </tr>
@@ -56,7 +59,7 @@ Learn Python by practicing on [CodeChef](https://www.codechef.com/users/tower_bo
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python"></a>
 </td>
 <td>
-<a href="https://www.pythonanywhere.com/user/mayannaoliveira/shares/2cd36b2f71124c0c85472b136633eb0d/">
+<a href="/output-print-python/output-print-python.py">
 <img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=flat&logo=PythonAnywhere&logoColor=white" alt="PythonAnywhere"></a>
 </td>
 </tr>
@@ -69,7 +72,7 @@ Learn Python by practicing on [CodeChef](https://www.codechef.com/users/tower_bo
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python"></a>
 </td>
 <td>
-<a href="https://www.pythonanywhere.com/user/mayannaoliveira/shares/2cd36b2f71124c0c85472b136633eb0d/">
+<a href="/output-print-python/output-print-python.py">
 <img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=flat&logo=PythonAnywhere&logoColor=white" alt="PythonAnywhere"></a>
 </td>
 </tr>
@@ -82,7 +85,7 @@ Learn Python by practicing on [CodeChef](https://www.codechef.com/users/tower_bo
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python"></a>
 </td>
 <td>
-<a href="https://www.pythonanywhere.com/user/mayannaoliveira/shares/2cd36b2f71124c0c85472b136633eb0d/">
+<a href="/output-print-python/output-print-python.py">
 <img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=flat&logo=PythonAnywhere&logoColor=white" alt="PythonAnywhere"></a>
 </td>
 </tr>
@@ -95,6 +98,19 @@ Learn Python by practicing on [CodeChef](https://www.codechef.com/users/tower_bo
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python"></a>
 </td>
 <td>
+<a href="/output-print-python/output-print-python.py">
+<img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=flat&logo=PythonAnywhere&logoColor=white" alt="PythonAnywhere"></a>
+</td>
+</tr>
+<!-- Fim da Linha --> 
+<!-- Início da Linha -->
+<tr>
+<td>Multiple Outputs</td>
+<td>
+<a href="/output-print-python/multiple-outputs.md">
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python"></a>
+</td>
+<td>
 <a href="">
 <img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=flat&logo=PythonAnywhere&logoColor=white" alt="PythonAnywhere"></a>
 </td>
@@ -104,29 +120,70 @@ Learn Python by practicing on [CodeChef](https://www.codechef.com/users/tower_bo
 <tr>
 <td>TESTE</td>
 <td>
-<a href="/introduction/">
+<a href="">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python"></a>
 </td>
 <td>
-<a href=" ">
-<img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=flat&logo=PythonAnywhere&logoColor=white" alt="PythonAnywhere"></a>
-</td>
-</tr>
-<!-- Fim da Linha -->
-<!-- Início da Linha -->
-<tr>
-<td>TESTE</td>
-<td>
-<a href="/introduction/">
-<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python"></a>
-</td>
-<td>
-<a href=" ">
+<a href="">
 <img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=flat&logo=PythonAnywhere&logoColor=white" alt="PythonAnywhere"></a>
 </td>
 </tr>
 <!-- Fim da Linha -->
 </table>
+
+
+
+<!-- NEW-TABLE -->
+<!-- </br>
+<table>
+<tr>
+<p align="left"><b>NEW-TABLE:</b></p>
+<th>Challenge</th>
+<th>Solving</th>
+<th>Code</th>
+</tr>
+<tr> -->
+<!-- Início da Linha -->
+<!-- <tr>
+<td>TESTE</td>
+<td>
+<a href="">
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python"></a>
+</td>
+<td>
+<a href="">
+<img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=flat&logo=PythonAnywhere&logoColor=white" alt="PythonAnywhere"></a>
+</td>
+</tr> -->
+<!-- Fim da Linha -->
+<!-- Início da Linha -->
+<!-- <tr>
+<td>TESTE</td>
+<td>
+<a href="">
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python"></a>
+</td>
+<td>
+<a href="">
+<img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=flat&logo=PythonAnywhere&logoColor=white" alt="PythonAnywhere"></a>
+</td>
+</tr> -->
+<!-- Fim da Linha -->
+<!-- Início da Linha -->
+<!-- <tr>
+<td>TESTE</td>
+<td>
+<a href="">
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python"></a>
+</td>
+<td>
+<a href="">
+<img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=flat&logo=PythonAnywhere&logoColor=white" alt="PythonAnywhere"></a>
+</td>
+</tr> -->
+<!-- Fim da Linha -->
+<!-- </table>  -->
+
 
 
 <div align="center">
@@ -135,4 +192,4 @@ Learn Python by practicing on [CodeChef](https://www.codechef.com/users/tower_bo
 <a>
 </div>
 
-Follow me in [CodeChef](https://www.codechef.com/users/tower_boat_88). :cook:
+_Follow me in [CodeChef](https://www.codechef.com/users/tower_boat_88)._ :cook:
